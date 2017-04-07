@@ -1,6 +1,8 @@
 # torch
 ## Full-stack MVC franework for production-ready apps 
 
+[![Join the chat at https://gitter.im/torchjs/Lobby](https://badges.gitter.im/torchjs/Lobby.svg)](https://gitter.im/torchjs/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 #### What I'm looking for?
 ```torch``` is a typescript nodejs framework which can also cure cancer  
 With ```torch``` you worry less about making your app complete and more about building a freature-rich web-server app  
